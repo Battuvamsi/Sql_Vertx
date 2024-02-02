@@ -1,0 +1,1 @@
+roolNumber INT, name STRING, marks INT

@@ -1,0 +1,1 @@
+employeeId INT, name STRING, salary INT
